@@ -18,6 +18,6 @@ This is the official repository of [Robo-ABC: Affordance Generalization Beyond C
 </div>
 
 # TODO
-- [ ] Release the semantic correspondence method code.
+- [x] Release the semantic correspondence method code.
 - [ ] Release the retriever code.
 - [ ] Release the affordance memory extraction code.
